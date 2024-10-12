@@ -34,14 +34,10 @@ body {
     height: 330px;
     border-radius: 40px;
     
-    border: linear-gradient(
-        to right
-        #495057,
-        #212529
-                );
-    
-    padding: 40px;
+    border-color: #212529;
+
+    padding: 50px;
     
     margin: 20px;
     
-    }
+}
