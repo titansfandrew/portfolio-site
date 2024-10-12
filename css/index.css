@@ -19,11 +19,9 @@ img {
 }
 
 body {
-    background: linear-gradient(
-        to right,
-        #212529,
-        #495057
-                );
+    background-image: url(https://wallpaper.dog/large/5510411.jpg);
+
+    background-repeat: no-repeat;
 }
 
 .box {

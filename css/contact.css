@@ -1,9 +1,7 @@
 body {
-    background: linear-gradient(
-        to right,
-        #212529,
-        #495057
-                );
+    background-image: url(https://wallpapers.com/images/featured/wildlife-pictures-laq4c3n11hg9jjcd.jpg);
+
+    background-repeat: no-repeat;
 }
 
 .center {
