@@ -9,3 +9,11 @@
 img {
     max-width: 100%;
 }
+
+body {
+    background: linear-gradient(
+        to right,
+        #212529,
+        #495057
+                );
+}

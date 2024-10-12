@@ -9,3 +9,11 @@
 img {
     border-radius: 50%;
 }
+
+body {
+    background: linear-gradient(
+        to right,
+        #212529,
+        #495057
+                );
+}
